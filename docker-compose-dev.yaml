@@ -1,5 +1,4 @@
 
-services:
   proxy:
     extends:
       file: base.yaml
